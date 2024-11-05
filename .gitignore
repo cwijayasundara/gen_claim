@@ -1,0 +1,12 @@
+.venv
+.vscode
+__pycache__
+*.pyc
+.env
+.vscode
+.idea
+claim_forms_store
+data_images
+invoices
+persist
+uploaded_invoices

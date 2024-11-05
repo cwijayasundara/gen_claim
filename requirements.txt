@@ -1,0 +1,11 @@
+python-dotenv
+llama-index
+llama-parse
+nest-asyncio
+duckdb
+llama-index-vector-stores-duckdb
+streamlit
+llama-index-llms-openai
+langchain-openai
+langchain-community
+unstructured[all-docs]
